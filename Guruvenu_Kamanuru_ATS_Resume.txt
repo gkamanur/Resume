@@ -95,3 +95,73 @@ German: Beginner Level
 ADDITIONAL INFORMATION
 Visa Sponsorship: Not Required
 Work Authorization: Authorized to work in Germany/Europe
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GURUVENU KAMANURU
+Mainframe Developer & Cybersecurity Analyst
+Wolfsburg, Germany
+
+[Placeholder for Professional Photo]
+
+Contact & Visa Information
+Phone: +49 123 233 77764 | Email: abcd@gmail.com | LinkedIn: linkedin.com/in/xxxxxxx
+Work Visa for Germany - Not Required
+
+Professional Summary
+Results-oriented IT Professional with over 3 years of experience as a Mainframe Developer, specializing in COBOL, JCL, DB2, and CICS within the healthcare and retail domains. Recently certified in Cybersecurity through an intensive bootcamp, with hands-on skills in vulnerability assessment, penetration testing, and security analysis. Combines deep technical expertise in legacy system development with a modern understanding of information security principles. Proven ability to deliver robust, automated solutions and provide exceptional production support. Authorized to work in Germany without restriction.
+
+Technical Skills
+
+Category	Skills
+Application Languages	COBOL, SQL, C, Python
+Mainframe Technologies	JCL, DB2, IMS DB, VSAM, CICS, SPUFI
+Development & Debugging Tools	Endevor, File-Aid, File Manager, IBM Debugger, Expeditor, CICS Explorer
+Scheduling & Transfer	CA7, Jenkins, MFT, FTP, SFTP, AWS
+Cybersecurity	Network Security, Ethical Hacking, Penetration Testing, Vulnerability Assessment, Security Analysis, Risk Management, Incident Response
+Project Management & Analytics	JIRA, Rally, Power BI, Excel
+Professional Experience
+
+Sr. Software Developer | Galaxe Solutions | Hyderabad, India
+Nov 2022 – Jun 2024
+
+Automation & Efficiency: Engineered an automated data transmission system using MFT, FTP, and SFTP, reducing manual processing time by 40% and minimizing human error for critical healthcare data.
+
+Full-Lifecycle Development: Designed, coded, and tested over 15 batch programs utilizing COBOL, JCL, DB2, and VSAM to support new business requirements and system integrations.
+
+Production Support & Stability: Provided high-availability production support, resolving system abends and ensuring a 99% batch completion rate for key healthcare processing cycles.
+
+Quality Assurance: Led QA validation phases and authored comprehensive UATR (User Acceptance Test Report) and RTCR (Regression Test Completion Report) documents, ensuring compliance with client standards.
+
+Associate Developer | Cognizant Technologies | Chennai, India
+Jun 2021 – Nov 2022
+
+Requirements Analysis & Design: Facilitated Joint Application Design (JAD) sessions with stakeholders to gather requirements and translated them into detailed Technical Design Documents (TSDs).
+
+Agile Development: Developed and enhanced over 20 batch programs using COBOL, JCL, DB2, and IMS DB, focusing on component reusability which achieved 70% code reuse for faster delivery.
+
+Quality-First Delivery: Created and executed detailed test plans for 5+ major program enhancements, delivering all projects with zero critical defects post-production.
+
+Desktop Support Engineer | Net-connect Global | Bangalore, India
+Oct 2016 – Jul 2017
+
+End-User Support: Managed network configurations, IP assignments, and remote access for a user base of 100+, resolving issues logged via the ITSM ticketing system.
+
+Service Level Management: Achieved 95% SLA compliance by prioritizing and resolving tickets efficiently, ensuring minimal downtime for end-users.
+
+Data Security Protocols: Executed secure data disposal and drive formatting procedures in line with company data protection policies.
+
+Education & Certifications
+
+Cybersecurity Bootcamp | Ironhack | 2024 – 2025
+
+Master of Technology (M.Tech), Machine Design | Jawaharlal Nehru Technological University, India | 2017 – 2020
+
+Bachelor of Technology (B.Tech), Aeronautical Engineering | Jawaharlal Nehru Technological University, India | 2011 – 2015
+
+Languages
+
+English: Proficient
+
+German: Beginner (A1)
