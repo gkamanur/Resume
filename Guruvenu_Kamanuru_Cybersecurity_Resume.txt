@@ -1,0 +1,143 @@
+GURUVENU KAMANURU
+CYBERSECURITY ANALYST | SOC ANALYST | PENETRATION TESTER
+
+CONTACT INFORMATION
+Phone: +49 176 239 73753
+Email: guruvenu.k152@gmail.com
+Location: Bahnhofspassage 2, Wolfsburg 38440, Germany
+LinkedIn: linkedin.com/in/guruvenukamanuru-11n31a2152
+
+PROFESSIONAL SUMMARY
+Cybersecurity professional with a strong technical foundation combining 3+ years of software development experience and intensive cybersecurity training. Recently completed comprehensive Cybersecurity Bootcamp with hands-on experience in network security, ethical hacking, vulnerability assessment, and penetration testing. Proven analytical and problem-solving skills from mainframe development background, with expertise in debugging complex systems, incident analysis, and security implementation. Seeking Security Analyst, SOC Analyst, or Junior Penetration Tester role to leverage technical expertise and security knowledge. Authorized to work in Germany/Europe.
+
+CYBERSECURITY SKILLS
+Security Operations: Threat Detection, Incident Response, Security Monitoring, Log Analysis, SIEM, Vulnerability Management
+Penetration Testing: Network Penetration Testing, Web Application Security Testing, Vulnerability Assessment, Exploitation, Post-Exploitation
+Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, OWASP ZAP, Nessus, Nikto, John the Ripper, Hashcat, Aircrack-ng
+Operating Systems: Kali Linux, Parrot OS, Windows, Linux/Unix, Security Hardening
+Networking: TCP/IP, DNS, HTTP/HTTPS, VPN, Firewall Configuration, Network Security, Packet Analysis
+Security Frameworks: OWASP Top 10, MITRE ATT&CK, Kill Chain, NIST Cybersecurity Framework
+Programming & Scripting: Python, Bash, SQL, PowerShell, C
+Cloud Security: AWS Security Fundamentals, IAM, Security Groups, Cloud Architecture
+Compliance & Risk: Risk Assessment, Security Auditing, Policy Development, ISO 27001 Awareness
+
+TECHNICAL SKILLS (Development Background)
+Programming Languages: Python, C, SQL, Bash, PowerShell, COBOL
+Databases: DB2, MySQL, SQL Server, VSAM
+Development Tools: JIRA, Git, Jenkins, Visual Studio Code
+Data Analysis: Power-BI, Excel, Data Visualization
+Network Administration: IP Management, Remote Access, Troubleshooting, System Administration
+
+EDUCATION & CERTIFICATIONS
+
+Cybersecurity Bootcamp
+Ironhack
+2024 - 2025
+- Completed intensive hands-on training in offensive and defensive security
+- Conducted penetration testing exercises on web applications and networks
+- Performed vulnerability assessments and security audits
+- Analyzed malware behavior and incident response scenarios
+- Implemented security controls and defensive strategies
+- Completed capstone project demonstrating end-to-end security assessment
+
+Master of Technology in Machine Design
+Jawaharlal Nehru Technological University, Ananthapur, India
+2017 - 2020
+
+Bachelor of Technology in Aeronautical Engineering
+Jawaharlal Nehru Technological University, Hyderabad, India
+2011 - 2015
+
+RELEVANT CYBERSECURITY PROJECTS
+
+Penetration Testing Lab Project
+- Conducted comprehensive penetration test on intentionally vulnerable web applications (DVWA, OWASP WebGoat)
+- Identified and exploited SQL injection, XSS, CSRF, and authentication vulnerabilities
+- Performed network reconnaissance and enumeration using Nmap and Wireshark
+- Exploited system vulnerabilities using Metasploit framework
+- Documented findings and provided remediation recommendations following industry standards
+
+Security Operations & Incident Response Simulation
+- Monitored network traffic and identified malicious activities using Wireshark and tcpdump
+- Analyzed security logs to detect indicators of compromise (IOCs)
+- Investigated simulated security incidents and documented incident response procedures
+- Created incident reports with root cause analysis and mitigation strategies
+- Implemented security controls to prevent future incidents
+
+Vulnerability Assessment Project
+- Performed automated vulnerability scans using Nessus and OpenVAS
+- Conducted manual security testing on web applications and network infrastructure
+- Prioritized vulnerabilities based on CVSS scores and business impact
+- Created detailed vulnerability assessment reports with risk ratings
+- Recommended security patches and configuration changes
+
+PROFESSIONAL EXPERIENCE
+
+Sr. Software Developer
+Galaxe Solutions, Hyderabad, India
+November 2022 - June 2024
+
+CIGNA Healthcare Project - US Healthcare business processing sensitive patient data (Medicaid, Medicare, Commercial)
+- Secured sensitive healthcare data transmission through MFT, FTP, SFTP, and AWS servers, ensuring HIPAA compliance
+- Implemented automated monitoring system detecting data transmission anomalies and security issues
+- Debugged critical production incidents, performing root cause analysis similar to security incident investigation
+- Monitored system logs and batch cycles to identify and resolve issues proactively (24/7 production support experience)
+- Analyzed system modifications and assessed impact on security and functionality before deployment
+- Managed access controls and authentication mechanisms for data transfer systems
+- Handled PII and PHI data securely, following data protection protocols
+- Collaborated with cross-functional teams to implement security best practices
+
+Associate Developer
+Cognizant Technologies, Chennai, India
+June 2021 - November 2022
+
+Ford Motors Project - Retail business managing financial transactions
+- Secured database queries and protected against SQL injection vulnerabilities in COBOL/DB2 applications
+- Conducted code reviews focusing on security vulnerabilities and data validation
+- Implemented input validation and sanitization in batch processing systems
+- Analyzed system requirements and identified security considerations in design phase
+- Debugged complex technical issues using systematic troubleshooting methodology
+- Prepared technical documentation including security specifications
+- Tested applications for functionality and security vulnerabilities before production deployment
+
+Desktop Support Engineer
+Net-connect Global, Bangalore, India (Societe Generale Project)
+October 2016 - July 2017
+
+- Managed network security, IP configurations, and access control for 100+ users
+- Troubleshot security-related issues including unauthorized access attempts and malware infections
+- Performed secure data disposal and destruction following company security policies
+- Monitored and responded to security incidents through ITSM ticketing system
+- Configured firewalls, VPNs, and remote access solutions
+- Maintained endpoint security and ensured compliance with security policies
+- Assisted in security audits and vulnerability assessments
+
+Trainee Engineer
+TLE Technologies, Bangalore, India
+September 2015 - September 2016
+
+- Administered network infrastructure and implemented security best practices
+- Managed user access controls and authentication systems
+- Performed system hardening and security patch management
+- Documented security procedures and maintained IT asset inventory
+- Responded to security incidents and implemented corrective actions
+
+KEY STRENGTHS FOR CYBERSECURITY ROLES
+- Strong analytical and problem-solving skills from debugging complex production systems
+- Experience with 24/7 monitoring and incident response in critical environments
+- Proven ability to work under pressure and handle security-critical situations
+- Systematic approach to troubleshooting and root cause analysis
+- Experience handling sensitive data (healthcare, financial) with security awareness
+- Strong documentation skills for creating security reports and procedures
+- Programming skills for automation and security tool development
+- Understanding of compliance requirements (HIPAA, data protection)
+
+LANGUAGES
+English: Proficient
+German: Beginner Level
+
+ADDITIONAL INFORMATION
+Visa Sponsorship: Not Required
+Work Authorization: Authorized to work in Germany/Europe
+Availability: Immediate
+Willing to work: Shift work, 24/7 SOC operations, On-call rotation

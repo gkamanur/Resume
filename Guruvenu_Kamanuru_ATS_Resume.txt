@@ -1,0 +1,97 @@
+GURUVENU KAMANURU
+COBOL/MAINFRAME DEVELOPER
+
+CONTACT INFORMATION
+Phone: +49 176 239 73753
+Email: guruvenu.k152@gmail.com
+Location: Bahnhofspassage 2, Wolfsburg 38440, Germany
+LinkedIn: linkedin.com/in/guruvenukamanuru-11n31a2152
+
+PROFESSIONAL SUMMARY
+Results-driven Mainframe Developer with 3+ years of experience in COBOL, JCL, DB2, and CICS, recently expanding expertise into Cybersecurity. Strong background in analysis, design, coding, testing, and implementation across the complete SDLC process. Proven track record in healthcare and retail domains, providing production support, maintenance, and enhancement. Completed intensive Cybersecurity Bootcamp, acquiring skills in network security, ethical hacking, and security analysis. Skilled in developing automated solutions and creating mainframe ad-hoc reports using production data. Authorized to work in Germany/Europe.
+
+TECHNICAL SKILLS
+Programming Languages: COBOL, JCL, SQL, C, Python
+Databases: DB2, IMSDB, VSAM
+Mainframe Tools: CICS, SPUFI, Endevor, FileAid, FileMNGR, IBM Debugger, Expeditor, CICS Explorer, CA7, IBM OnDemand, JENKINS
+Data Transfer: MFT, FTP, SFTP, AWS
+Cybersecurity: Network Security, Ethical Hacking, Penetration Testing, Vulnerability Assessment, Security Analysis, Risk Management, Incident Response
+Business Analysis Tools: JIRA, Rally
+Reporting & Analytics: Power-BI, Excel
+Querying Tools: DB-Visualizer, Data-Studio
+Microsoft Office: Word, PowerPoint, Excel
+
+WORK EXPERIENCE
+
+Sr. Software Developer
+Galaxe Solutions, Hyderabad, India
+November 2022 - June 2024
+
+CIGNA Healthcare Project - US Healthcare business processing Medicaid, Medicare, and Commercial client data
+- Developed automated switch system for data transmission and generation, reducing manual processing time by 40%
+- Designed and developed 15+ batch programs and jobs using COBOL, JCL, DB2, and VSAM
+- Managed data transmission through MFT, FTP, SFTP, and AWS servers for Polar Eligibility section
+- Generated client-specific reports for Medicaid, Medicare, and Commercial healthcare data
+- Performed Quality Assurance (QA) validation and prepared unit test case reports, UATR (User Acceptance Test Report), and RTCR (Requirements Traceability Coverage Report)
+- Debugged and implemented system enhancements, achieving 99% batch cycle completion rate
+- Provided production support for critical batch cycles, ensuring on-time completion
+- Conducted development, enhancements, bug fixes, and abend resolution
+- Monitored deployed batch cycles and analyzed modifications for homogeneous implementation during emergencies
+- Identified affected elements list for emergency deployments
+
+Associate Developer
+Cognizant Technologies, Chennai, India
+June 2021 - November 2022
+
+Ford Motors Project - Retail business managing transactions between Importers and Exporters
+- Collaborated with business and end users through extensive meetings to gather requirements
+- Conducted Joint Application Development (JAD) sessions with business users, application developers, and technical analysts
+- Analyzed requirements and functional specifications for support and upgrade initiatives
+- Prepared Technical Specification Documents (TSD) based on existing functionality and new requirements
+- Created detailed technical design specifications for batch program enhancements, reusing 70% of existing components
+- Developed 10+ new batch programs using COBOL, DB2, JCL, and IMSDB
+- Utilized IBM Debug tools for system debugging and implementation
+- Prepared comprehensive test plans for independent unit testing and QA testing
+- Successfully delivered 5+ major enhancements with zero production defects
+
+Desktop Support Engineer
+Net-connect Global, Bangalore, India
+October 2016 - July 2017
+
+Societe Generale Project
+- Managed network administration, IP handling, and remote access allocation
+- Troubleshot software and hardware issues for 100+ end users
+- Formatted newly allocated drives and servers, handled data disposal and destruction
+- Resolved ITSM tickets related to hardware, software, and IP connectivity issues
+- Maintained 95% ticket resolution rate within SLA timeframes
+
+Trainee Engineer
+TLE Technologies, Bangalore, India
+September 2015 - September 2016
+
+- Performed network administration, IP handling, and remote access management
+- Formatted drives and servers, managed data disposal procedures
+- Handled ITSM tickets for hardware, software, and IP connectivity issues
+- Documented inventory and managed IT store operations
+
+EDUCATION
+
+Cybersecurity Bootcamp
+Ironhack
+2024 - 2025
+
+Master of Technology in Machine Design
+Jawaharlal Nehru Technological University, Ananthapur, India
+2017 - 2020
+
+Bachelor of Technology in Aeronautical Engineering
+Jawaharlal Nehru Technological University, Hyderabad, India
+2011 - 2015
+
+LANGUAGES
+English: Proficient
+German: Beginner Level
+
+ADDITIONAL INFORMATION
+Visa Sponsorship: Not Required
+Work Authorization: Authorized to work in Germany/Europe
