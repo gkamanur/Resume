@@ -9,24 +9,28 @@ Email: guruvenu.k152@gmail.com
 Location: Wolfsburg, Germany  
 LinkedIn: https://www.linkedin.com/in/guruvenu-kamanuru 
 
-***CAREER OBJECTIVE***
+Motivated IT professional seeking roles in **Mainframe Development**, **Cybersecurity**, or **IT Infrastructure Support** where I can apply my technical expertise to enhance system performance, strengthen security posture, and contribute to organizational success.  
+Mainframe Developer with 5+ years of experience in COBOL, JCL, DB2, and CICS, recently trained in Cybersecurity. Experienced in healthcare and retail domains, providing development, production support, and automation solutions. Skilled in SDLC processes, batch programming, and reporting. Authorized to work in Germany. 
 
-Motivated IT professional seeking roles in **Mainframe Development**, **Cybersecurity**, or **IT Infrastructure Support** where I can apply my technical expertise in **COBOL, JCL, DB2, and Network Security** to enhance system performance, strengthen security posture, and contribute to organizational success.  
+**CYBERSECURITY SKILLS**
 
-KEY SKILLS SUMMARY  
-- Mainframe Development: COBOL, JCL, DB2, IMSDB, VSAM, CICS  
-- Cybersecurity & IT Security: Network Security, Ethical Hacking, Penetration Testing, Vulnerability Assessment, Incident Response  
-- IT Support & Administration: Ticketing, Remote Access, Network Management, SLA Compliance  
-- Automation & Reporting: Power BI, Excel, Batch Programming, Data Transfer (MFT, FTP, SFTP, AWS)  
-- Tools & Methodologies: Endevor, FileAid, FileMNGR, IBM Debugger, Expeditor, CICS Explorer, CA7, Jenkins, JIRA, Rally  
+- Security Operations: Threat Detection, Incident Response, Security Monitoring, Log Analysis, SIEM, Vulnerability Management
+- Penetration Testing: Network Penetration Testing, Web Application Security Testing, Vulnerability Assessment, Exploitation, Post-Exploitation
+- Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, OWASP ZAP, Nessus, Nikto, John the Ripper,Hashcat, Aircrack-ng
+- Operating Systems: Kali Linux, Parrot OS, Windows, Linux/Unix, Security Hardening
+- Networking: TCP/IP, DNS, HTTP/HTTPS, VPN, Firewall Configuration, Network Security, Packet Analysis
+- Security Frameworks: OWASP Top 10, MITRE ATT&CK, Kill Chain, NIST Cybersecurity Framework
+- Programming & Scripting: Python, Bash, SQL, PowerShell, C
+- Cloud Security: AWS Security Fundamentals, IAM, Security Groups, Cloud Architecture, DOCKER
+- Compliance & Risk: Risk Assessment, Security Auditing, Policy Development, ISO 27001 Awareness
 
-***PROFESSIONAL SUMMARY***
+**TECHNICAL SKILLS (Development Background)**
 
-Mainframe Developer with 5+ years of experience in COBOL, JCL, DB2, and CICS, recently trained in Cybersecurity. Experienced in healthcare and retail domains, providing development, production support, and automation solutions. Skilled in SDLC processes, batch programming, and reporting. Authorized to work in Germany/Europe.  
-
-***TECHNICAL SKILLS***
-
-COBOL, JCL, SQL, C,Linux, Shell-scripting, Python, DB2, IMSDB, VSAM, CICS, SPUFI, Endevor, FileAid, FileMNGR, IBM Debugger, Expeditor, CICS Explorer, CA7, IBM OnDemand, Jenkins, MFT, FTP, SFTP, AWS, Network Security, Ethical Hacking, Penetration Testing, Vulnerability Assessment, Security Analysis, Risk Management, Incident Response, JIRA, Rally, Power BI, Excel , Docker, Splunk, Wazuh, Ghidra
+- Programming Languages: Python, C, SQL, Bash, PowerShell, COBOL
+- Databases: DB2, MySQL, SQL Server, VSAM, IMSDB
+- Development Tools: JIRA, Git, Jenkins, Visual Studio Code
+- Data Analysis: Power-BI, Excel, Data Visualization
+- Network Administration: IP Management, Remote Access, Troubleshooting, System Administration 
 
 ***WORK EXPERIENCE***
 
