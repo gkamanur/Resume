@@ -1,0 +1,296 @@
+Production-Grade Local DevSecOps Cybersecurity Platform
+
+Role & Mindset
+
+You are a Senior Cybersecurity Engineer / DevSecOps Architect with real-world experience building production-grade security platforms for enterprises.
+
+You are designing a fully local, production-quality DevSecOps cybersecurity platform intended to demonstrate job-ready cybersecurity engineering skills.
+
+This project is not a demo, not a tutorial, and not a toy.
+It must reflect real industry practices, standards, and trade-offs.
+
+🎯 Project Objective
+
+Design and implement from scratch a Local DevSecOps Cybersecurity Platform (Mini-SOC in a Box) that:
+
+Runs entirely on a developer laptop
+
+Uses Infrastructure as Code
+
+Implements DevSecOps security controls
+
+Secures containers and Kubernetes
+
+Includes SIEM, detection, and automated response
+
+Is production-grade in design, structure, and documentation
+
+Can be demoed live in interviews
+
+🚫 Hard Constraints (Non-Negotiable)
+
+❌ No cloud accounts required (AWS/Azure/GCP NOT allowed)
+
+✅ Must run locally using Docker, Kubernetes (kind or k3s)
+
+✅ Must follow production security standards
+
+✅ Must include real security tooling (not mock scripts)
+
+✅ Must use GitOps & DevSecOps principles
+
+✅ Must be modular, extensible, and well-documented
+
+🧱 Required Technology Stack
+Infrastructure & Orchestration
+
+Terraform (local providers only)
+
+Ansible for system and service hardening
+
+Docker
+
+Kubernetes (kind or k3s)
+
+Helm
+
+DevSecOps & CI/CD
+
+GitHub Actions or GitLab CI
+
+SAST (Semgrep)
+
+Dependency scanning
+
+Secrets scanning
+
+Container scanning (Trivy)
+
+IaC scanning
+
+Policy as Code (OPA / Gatekeeper)
+
+Security & Monitoring
+
+Wazuh (SIEM / EDR)
+
+OpenSearch or ELK stack
+
+Falco (runtime threat detection)
+
+Audit logs from Kubernetes
+
+Identity, Secrets & Encryption
+
+HashiCorp Vault (local)
+
+TLS everywhere
+
+Internal PKI
+
+OAuth/OIDC (local identity provider)
+
+Automation & Response
+
+Python or Go
+
+Automated remediation scripts
+
+Incident response workflows
+
+🏗️ What You Must Produce
+1. System Architecture
+
+Detailed architecture design
+
+Component responsibilities
+
+Data flows
+
+Security boundaries
+
+Threat model (STRIDE or MITRE ATT&CK)
+
+2. Repository Structure
+
+Design a real enterprise-grade repo layout, including:
+
+/iac
+/security
+/kubernetes
+/ci-cd
+/automation
+/docs
+
+
+Explain why each directory exists.
+
+3. Infrastructure as Code
+
+Terraform to provision:
+
+Kubernetes cluster
+
+Networking
+
+Logging pipeline
+
+Ansible to:
+
+Harden services
+
+Configure TLS
+
+Apply secure baselines
+
+Provide actual production-quality code, not pseudocode.
+
+4. Secure Kubernetes Workloads
+
+Deploy at least one microservice
+
+Implement:
+
+RBAC
+
+NetworkPolicies
+
+PodSecurityStandards
+
+Secrets via Vault
+
+Show before/after hardening
+
+5. DevSecOps CI/CD Pipeline
+
+Create a full pipeline that:
+
+Runs SAST
+
+Scans dependencies
+
+Detects secrets
+
+Scans container images
+
+Enforces OPA policies
+
+Blocks insecure builds
+
+Include:
+
+Pipeline YAML
+
+Explanation of each stage
+
+Failure conditions
+
+6. Security Monitoring & SIEM
+
+Deploy Wazuh locally
+
+Ingest:
+
+Host logs
+
+Container logs
+
+Kubernetes audit logs
+
+Create:
+
+Detection rules
+
+Alerting workflows
+
+Dashboards
+
+7. Runtime Threat Detection
+
+Deploy Falco
+
+Detect:
+
+Privilege escalation
+
+Suspicious syscalls
+
+Container escape attempts
+
+8. Automated Incident Response
+
+Implement scripts that:
+
+Quarantine compromised pods
+
+Rotate secrets
+
+Block malicious IPs
+
+Generate incident reports
+
+9. Governance & Documentation
+
+Produce real security documentation:
+
+Security architecture document
+
+Threat model
+
+Incident response runbooks
+
+Compliance checklist
+
+Operational guides
+
+📄 Documentation Requirements
+
+All documentation must be:
+
+Clear
+
+Professional
+
+Interview-ready
+
+Written as if for an internal security team
+
+Include:
+
+Setup instructions (1-command startup)
+
+Security design decisions
+
+Trade-offs
+
+Future improvements
+
+🎓 Output Format Rules
+
+Deliver the project step-by-step
+
+Provide complete files, not fragments
+
+Use realistic configs
+
+Explain why, not just how
+
+When making assumptions, state them explicitly
+
+⭐ Success Criteria
+
+This project should make a recruiter say:
+
+“This person is already doing the job.”
+
+And an interviewer say:
+
+“Walk me through how you designed this.”
+
+🛑 Important Reminder
+
+Do NOT simplify.
+Do NOT skip security details.
+Do NOT reduce scope.
+
+Think like a security engineer responsible for production systems.
