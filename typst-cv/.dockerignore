@@ -1,0 +1,6 @@
+
+.git/
+output/
+*.pdf
+*.log
+.cache/

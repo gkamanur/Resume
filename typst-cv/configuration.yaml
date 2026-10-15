@@ -1,0 +1,140 @@
+
+contacts:
+  name: "YOUR FULL NAME"
+  title: "Mainframe Developer"
+  email: "your.email@example.com"
+  address: "Wolfsburg, Germany"
+  location: "Germany"
+
+  linkedin:
+    url: "https://www.linkedin.com/in/YOUR-PROFILE/"
+    displayText: "LinkedIn Profile"
+
+  github:
+    url: ""
+    displayText: ""
+
+  website:
+    url: ""
+    displayText: ""
+
+position: "Mainframe Developer | COBOL, JCL, DB2 & CICS"
+
+tagline: >
+  Mainframe Developer and IT Professional with 5+ years
+  of experience across retail and healthcare environments.
+  Experienced in COBOL, JCL, DB2, CICS, VSAM, batch processing,
+  production support, troubleshooting and automation.
+  Focused on reliable enterprise applications and efficient
+  incident resolution.
+
+jobs:
+  - position: "Senior Test Engineer"
+    company:
+      name: "Galaxe Solutions"
+      link: ""
+    product:
+      name: "Automotive Testing and Log Processing"
+      link: ""
+    description:
+      - "Performed ECU, sensor and OBD-related testing in an automotive environment."
+      - "Executed regression testing for Bluetooth, navigation and media functionality."
+      - "Worked with application logs and log-processing workflows involving COBOL and JCL outputs and structured JSON data."
+      - "Used JIRA and ServiceNow for issue tracking and incident management."
+    from: "Nov 2022"
+    to: "Jul 2024"
+    location: "Automotive Project"
+
+  - position: "Mainframe Developer"
+    company:
+      name: "REPLACE WITH ACTUAL EMPLOYER"
+      link: ""
+    product:
+      name: "Retail Applications"
+      link: ""
+    description:
+      - "Developed and maintained COBOL programs for enterprise applications."
+      - "Created and supported JCL batch jobs and investigated job failures."
+      - "Worked with DB2, SQL and production support activities."
+      - "Replace these bullets with your actual responsibilities and achievements."
+    from: "REPLACE"
+    to: "REPLACE"
+    location: "Retail Domain"
+
+  - position: "Mainframe Developer"
+    company:
+      name: "REPLACE WITH ACTUAL EMPLOYER"
+      link: ""
+    product:
+      name: "Healthcare Applications"
+      link: ""
+    description:
+      - "Supported mainframe application development and maintenance."
+      - "Worked with batch processing, troubleshooting and application support."
+      - "Replace these bullets with your actual responsibilities and achievements."
+    from: "REPLACE"
+    to: "REPLACE"
+    location: "Healthcare Domain"
+
+objective: >
+  Seeking a Mainframe Developer position where I can contribute
+  my experience in enterprise application development, batch
+  processing, production support and troubleshooting while
+  continuing to develop my technical skills.
+
+education:
+  - place:
+      name: "YOUR DEGREE AND UNIVERSITY"
+      link: ""
+    degree: "YOUR DEGREE"
+    major: "YOUR SPECIALIZATION"
+    track: "YOUR SPECIALIZATION"
+    from: "YEAR"
+    to: "YEAR"
+    location: "City, Country"
+
+technical_expertise:
+  - name: "COBOL"
+    level: 5
+  - name: "JCL"
+    level: 5
+  - name: "DB2 / SQL"
+    level: 4
+  - name: "CICS"
+    level: 4
+  - name: "VSAM"
+    level: 4
+
+skills:
+  - "IBM z/OS"
+  - "TSO/ISPF"
+  - "IMS DB"
+  - "RACF"
+  - "PROCLIB and JCL Utilities"
+  - "Batch Monitoring"
+  - "Production Support"
+  - "Incident Management"
+  - "Performance Tuning"
+  - "SDLC and Release Support"
+  - "Application Troubleshooting"
+  - "Automation and Reporting"
+
+methodology:
+  - "Software Development Life Cycle"
+  - "Incident and Problem Management"
+  - "Regression Testing"
+  - "Root Cause Analysis"
+  - "Change and Release Management"
+
+tools:
+  - "JIRA"
+  - "ServiceNow"
+  - "TSO/ISPF"
+  - "Mainframe Development Utilities"
+
+achievements:
+  - name: "Mainframe and Log Processing"
+    description: >
+      Experience working with mainframe technologies and
+      structured log-processing workflows. Add measurable
+      outcomes and certifications where verified.

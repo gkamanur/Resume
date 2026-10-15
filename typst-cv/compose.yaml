@@ -1,0 +1,18 @@
+
+services:
+  typst:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        TYPST_IMAGE: ${TYPST_IMAGE:-ghcr.io/typst/typst:latest}
+    image: local/typst-cv:dev
+    working_dir: /work
+    environment:
+      HOME: /tmp
+      TYPST_FONT_PATHS: /work/fonts:/usr/local/share/fonts:/usr/share/fonts
+    volumes:
+      - ./:/work
+    init: true
+    stdin_open: true
+    tty: true
