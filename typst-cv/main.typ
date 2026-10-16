@@ -23,6 +23,11 @@
       link: "",
       display: configuration.contacts.address,
     ),
+    (
+      name: "mobile",
+      link: "",
+      display: configuration.contacts.mobile,
+    ),
   ),
 
   tagline: configuration.tagline,
