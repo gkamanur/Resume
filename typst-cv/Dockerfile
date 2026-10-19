@@ -1,4 +1,3 @@
-#let work_authorization = "Authorized to work in Germany"
 ARG TYPST_IMAGE=ghcr.io/typst/typst:latest
 
 FROM ${TYPST_IMAGE} AS typst_binary
@@ -29,7 +28,9 @@ RUN mkdir -p /work /home/typst \
     && chown -R typst:typst /work /home/typst
 
 ENV HOME=/home/typst
+ENV TEMPLATE_ROOT=/work/templates
 ENV TYPST_FONT_PATHS=/work/fonts:/usr/local/share/fonts:/usr/share/fonts
+ENV TYPST_TEMPLATE_DIR=/work/templates
 
 WORKDIR /work
 

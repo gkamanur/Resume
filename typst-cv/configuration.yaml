@@ -1,4 +1,12 @@
-
+# ─────────────────────────────────────────────────────────────
+# configuration.yaml — the ONE input file for every template
+# (templates/a, templates/b, templates/c). Edit it here only.
+#
+# Optional keys (templates fall back gracefully if absent):
+#   responsibilities  – bullet list shown as "Key Responsibilities"
+#   keywords          – header badges in template c
+#                       (default: names from technical_expertise)
+# ─────────────────────────────────────────────────────────────
 contacts:
   name: "GURUVENU KAMANURU"
   title: "Mainframe Developer"
@@ -82,6 +90,13 @@ objective: >
   my experience in enterprise application development, batch
   processing, production support and troubleshooting while
   continuing to develop my technical skills.
+
+responsibilities:
+  - "COBOL application development and maintenance."
+  - "JCL batch processing and job troubleshooting."
+  - "DB2 SQL data processing and application support."
+  - "Production incident investigation and resolution."
+  - "Application testing, automation and reporting."
 
 education:
   - place:

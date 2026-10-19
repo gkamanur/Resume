@@ -1,3 +1,4 @@
+#import "/shared/theme.typ": body-font
 
 #let primary_colour = rgb("#3730a3")
 #let link_colour = rgb("#12348e")
@@ -104,7 +105,7 @@
 
   set text(
     size: 9.3pt,
-    font: "Liberation Sans",
+    font: body-font,
     fill: rgb("#252A34")
   )
 

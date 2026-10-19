@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────────────────────
+# cover-letter.yaml — input for cover-letter/main.typ
+# Your own details (name, title, email, phone, address, LinkedIn)
+# are taken from ../configuration.yaml, so they stay in sync with
+# the CV. Anything set under `sender:` below overrides them.
+# Edit this file for every application.
+# ─────────────────────────────────────────────────────────────
+
+sender: {}
+  # name: ""
+  # title: ""
+  # email: ""
+  # phone: ""
+  # location: ""
+  # linkedin: ""
+
+date: "15 October 2026"        # leave "" to use today's date
+
+recipient:
+  name: "Hiring Manager"
+  company: "Company Name"
+  address: "Company Street and Number"
+  location: "Postal Code, City, Germany"
+
+subject: "Application for the Mainframe Developer Position"
+salutation: "Dear Hiring Manager,"
+closing: "Kind regards,"
+work_authorization: "Authorized to work in Germany"
+
+# {company} is replaced by recipient.company
+body:
+  - "I am writing to apply for the Mainframe Developer position at {company}. I bring over five years of IT experience, with a strong background in mainframe development, production support, batch processing, and troubleshooting. I am interested in contributing my technical skills and practical experience to your team."
+  - "My technical experience includes COBOL, JCL, DB2, CICS, VSAM, and mainframe environments. I have worked on development and support activities, investigated production issues, supported batch jobs, and contributed to reliable application processing. My experience across retail and healthcare projects has helped me understand the importance of accuracy, system stability, and timely issue resolution."
+  - "I am comfortable working with established processes, collaborating with team members, and following the software development life cycle. I also have experience with automation and technical troubleshooting. I am keen to continue developing my mainframe expertise and learn the tools and technologies required by your team."
+  - "I would welcome the opportunity to discuss how my experience and skills could contribute to your organization. Thank you for considering my application. I look forward to hearing from you."

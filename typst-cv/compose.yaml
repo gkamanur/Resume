@@ -1,4 +1,3 @@
-
 services:
   typst:
     build:
@@ -10,6 +9,9 @@ services:
     working_dir: /work
     environment:
       HOME: /tmp
+      TEMPLATE_ROOT: ${TEMPLATE_ROOT:-/work/templates}
+      ACTIVE_TEMPLATE: ${ACTIVE_TEMPLATE:-a}
+      TYPST_TEMPLATE_DIR: ${TEMPLATE_ROOT:-/work/templates}/${ACTIVE_TEMPLATE:-a}
       TYPST_FONT_PATHS: /work/fonts:/usr/local/share/fonts:/usr/share/fonts
     volumes:
       - ./:/work

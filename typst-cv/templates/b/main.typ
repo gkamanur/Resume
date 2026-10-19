@@ -1,7 +1,7 @@
 
 #import "vantage-typst.typ": vantage, term, skill, styled-link
 
-#let configuration = yaml("configuration.yaml")
+#let configuration = yaml("/configuration.yaml")
 
 #vantage(
   name: configuration.contacts.name,
@@ -51,11 +51,9 @@
 
     == Key Responsibilities
 
-    - COBOL application development and maintenance.
-    - JCL batch processing and job troubleshooting.
-    - DB2 SQL data processing and application support.
-    - Production incident investigation and resolution.
-    - Application testing, automation and reporting.
+    #for point in configuration.at("responsibilities", default: ()) [
+      - #point
+    ]
   ],
 
   [
