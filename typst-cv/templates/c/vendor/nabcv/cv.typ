@@ -350,7 +350,7 @@
   }
 
   // --- Components ---
-  let icon-list(icon, items, spacing: 0pt) = {
+  let icon-list(icon, items, spacing: 0pt, size: none) = { // LOCAL: optional size
     set par(justify: true)
     for (i, item) in items.enumerate() {
       grid(
@@ -363,7 +363,7 @@
         ),
         text(
           font: ff.entry-highlight,
-          size: ts.entry-highlight,
+          size: if size != none { size } else { ts.entry-highlight },
           weight: fw.entry-highlight,
           parse-markup(item),
         ),
@@ -677,6 +677,49 @@
         ))
       ]
     ],
+    responsibilities: () => { // LOCAL: sidebar variant
+      if responsibilities != none {
+        sidebar-section(si.responsibilities, st.responsibilities)[
+          #show: section-text("responsibilities")
+          #icon-list(bullet-icon, responsibilities, spacing: 3pt, size: ts.sidebar - 1pt)
+        ]
+      }
+    },
+    education: () => { // LOCAL: sidebar variant
+      if education != none {
+        sidebar-section(si.education, st.education)[
+          #show: section-text("education")
+          #for edu in education [
+            #text(weight: fw.skill-group)[#edu.company] \
+            #if edu.at("position", default: none) != none [
+              #edu.position \
+            ]
+            #if edu.at("summary", default: none) != none [
+              #text(size: ts.sidebar - 1pt)[#edu.summary] \
+            ]
+            #text(size: ts.entry-date, weight: fw.entry-date)[
+              #format-date(edu.start_date, edu.end_date)
+              #if edu.at("location", default: none) != none [ · #edu.location]
+            ]
+            #v(gap.sidebar-skill-between-items + 2pt)
+          ]
+        ]
+      }
+    },
+    awards: () => { // LOCAL: sidebar variant
+      if awards != none {
+        sidebar-section(si.awards, st.awards)[
+          #show: section-text("awards")
+          #for award in awards [
+            #text(weight: fw.skill-group)[#award.name] \
+            #if award.at("summary", default: none) != none [
+              #text(size: ts.sidebar - 1pt, style: "italic")[#parse-markup(award.summary)]
+            ]
+            #v(gap.sidebar-skill-between-items + 2pt)
+          ]
+        ]
+      }
+    },
     skills: () => {
       if skills != none {
         sidebar-section(si.skills, st.skills)[

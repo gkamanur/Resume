@@ -118,6 +118,14 @@
     "Tools": "screwdriver-wrench",
     "Methodology": "diagram-project",
   ),
+  // Left sidebar vs. main column
+  sidebar-sections: (
+    "photo", "contact", "skills",
+    "responsibilities", "education", "awards",
+  ),
+  main-sections: ("summary", "motivation", "experience"),
+  // Name font size (default was 32pt)
+  text-size: (header-name: 24pt),
   section-titles: (
     motivation: "CAREER OBJECTIVE",
     awards: "CERTIFICATIONS & ACHIEVEMENTS",

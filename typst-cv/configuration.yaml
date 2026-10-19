@@ -16,7 +16,7 @@ contacts:
   mobile: "+49 17623973753"
 
   linkedin:
-    url: "https://www.linkedin.com/in/YOUR-PROFILE/"
+    url: "https://www.linkedin.com/in/guruvenu-kamanuru/"
     displayText: "LinkedIn Profile"
 
   github:
@@ -27,7 +27,7 @@ contacts:
     url: ""
     displayText: ""
 
-position: "Mainframe Developer | COBOL, JCL, DB2 & CICS"
+position: "Mainframe Developer"
 
 tagline: >
   Mainframe Developer and IT Professional with 5+ years
@@ -38,52 +38,104 @@ tagline: >
   incident resolution.
 
 jobs:
-  - position: "Senior Test Engineer"
+  - position: "IT Support & Infrastructure Technician"
     company:
-      name: "Galaxe Solutions"
+      name: "Freelance"
       link: ""
     product:
-      name: "Automotive Testing and Log Processing"
+      name: ""
       link: ""
     description:
-      - "Performed ECU, sensor and OBD-related testing in an automotive environment."
-      - "Executed regression testing for Bluetooth, navigation and media functionality."
-      - "Worked with application logs and log-processing workflows involving COBOL and JCL outputs and structured JSON data."
-      - "Used JIRA and ServiceNow for issue tracking and incident management."
+      - "Assembled, configured, and maintained desktop PCs and personal computer systems."
+      - "Installed and configured operating systems, drivers, software, and essential system utilities."
+      - "Diagnosed hardware faults and replaced defective components, including RAM, SSDs, HDDs, power supplies, and cooling components."
+      - "Set up personal cloud storage and self-hosted services for secure file access, synchronization, and data backup."
+      - "Integrated Raspberry Pi devices into home lab environments for lightweight server applications, automation, and network services."
+      - "Configured local networks, shared storage, remote access, and basic network troubleshooting."
+      - "Performed system upgrades, preventive maintenance, performance checks, and hardware compatibility testing."
+      - "Applied basic security practices, including software updates, access controls, backup management, and secure system configuration."
+    from: "Oct 2024"
+    to: "Present"
+    location: "Wolfsburg, Germany"
+
+  - position: "Senior Developer"
+    company:
+      name: "GalaxE.Solutions"
+      link: ""
+    product:
+      name: "Healthcare | CIGNA US Healthcare"
+      link: ""
+    description:
+      - "Designed and delivered 25+ COBOL/JCL/DB2/VSAM batch programs automating healthcare data
+        workflows, cutting manual intervention by 40% and sustaining a 99% batch job success rate across peak
+        processing periods."
+      - "Administered and tuned CA7 Scheduler jobs for complex batch dependency chains; ensured SLA 
+        adherence across daily, weekly, and month-end batch cycles."
+      - "Integrated mainframe batch output with ELK Stack (Elasticsearch/Kibana), building real-time log-analysis 
+        dashboards processing 2M+ daily events — reducing incident detection from hours to minutes."
+      - "Managed end-to-end Connect:Direct (NDM) and MFT/FTP/SFTP file transfers for HIPAA-compliant EDI 
+        transactions across 10+ external partner organisations."
+      - "Worked within RACF-controlled environments; supported access provisioning, dataset security reviews, and compliance audit preparation."
+      - "Provided L2/L3 production support — diagnosed and resolved JCL ABEND/S0C7/S0C4 issues under SLA
+        windows, authoring UATR and RTCR reports for regulatory submissions."
+      - "Coordinated across development, QA, and business teams in Agile sprints; executed full regression
+        cycles and UAT sign-off for all major releases."
     from: "Nov 2022"
     to: "Jul 2024"
-    location: "Automotive Project"
+    location: "Hyderabad, India"
 
-  - position: "Mainframe Developer"
+  - position: "Associate"
     company:
-      name: "REPLACE WITH ACTUAL EMPLOYER"
+      name: "Cognizant Technology Solutions"
       link: ""
     product:
-      name: "Retail Applications"
+      name: "Ford Retail Business"
       link: ""
     description:
-      - "Developed and maintained COBOL programs for enterprise applications."
-      - "Created and supported JCL batch jobs and investigated job failures."
-      - "Worked with DB2, SQL and production support activities."
-      - "Replace these bullets with your actual responsibilities and achievements."
-    from: "REPLACE"
-    to: "REPLACE"
-    location: "Retail Domain"
+      - "Developed 20+ COBOL/JCL programs using DB2 and IMS DB for Ford's retail data platform, reusing 70%
+        of existing components to accelerate delivery by 30%."
+      - "Designed and optimised DB2 SQL queries and IMS DL/I call sequences to improve batch throughput for
+        high-volume transaction processing."
+      - "Migrated and extended IMS DC online transactions to handle increased volumes; applied DL/I call
+        optimisation techniques to measurably improve response times."
+      - "Led JAD sessions with business analysts to capture requirements; authored Technical Specification
+        Documents (TSDs) for all major enhancements."
+      - "Delivered 5+ major releases with zero post-deployment defects through detailed test planning,
+        XPEDITER-assisted debugging, and full regression cycles."
+      - "Managed Endevor SCM workflows — code promotion, change packages, and release coordination across
+        Dev, QA, and Production environments."
+    from: "May 2019"
+    to: "Nov 2022"
+    location: "Chennai, India"
 
-  - position: "Mainframe Developer"
+  - position: "Desktop Support Engineer"
     company:
-      name: "REPLACE WITH ACTUAL EMPLOYER"
+      name: "Net-connect Global"
       link: ""
     product:
-      name: "Healthcare Applications"
+      name: "Société Générale (Banking)"
       link: ""
     description:
       - "Supported mainframe application development and maintenance."
       - "Worked with batch processing, troubleshooting and application support."
       - "Replace these bullets with your actual responsibilities and achievements."
-    from: "REPLACE"
-    to: "REPLACE"
-    location: "Healthcare Domain"
+    from: "Oct 2016"
+    to: "Jul 2017"
+    location: "Bangalore, India"
+
+  - position: "Trainee Engineer"
+    company:
+      name: "TLE Technologies"
+      link: ""
+    product:
+      name: "Airbus (Aviation)"
+      link: ""
+    description:
+      - "Managed network, IP, and remote access infrastructure for 100+ end users in a regulated banking
+        environment; maintained 95% SLA adherence on ITSM tickets."
+    from: "Sep 2015"
+    to: "Sep 2016"
+    location: "Bangalore, India"
 
 objective: >
   Seeking a Mainframe Developer position where I can contribute
@@ -100,14 +152,23 @@ responsibilities:
 
 education:
   - place:
-      name: "YOUR DEGREE AND UNIVERSITY"
+      name: "Jawaharlal Nehru Technological University"
       link: ""
-    degree: "YOUR DEGREE"
-    major: "YOUR SPECIALIZATION"
-    track: "YOUR SPECIALIZATION"
-    from: "YEAR"
-    to: "YEAR"
-    location: "City, Country"
+    degree: "Master of Technology"
+    major: "Machine Design"
+    track: "Aerospace"
+    from: "2017"
+    to: "2020"
+    location: "Ananthapuram,India"
+  - place:
+      name: "Jawaharlal Nehru Technological University"
+      link: ""
+    degree: "Bachelor of Technology"
+    major: "Aeronautical Engineering"
+    track: ""
+    from: "2011"
+    to: "2015"
+    location: "Hyderabad,India"
 
 technical_expertise:
   - name: "COBOL"
@@ -122,25 +183,28 @@ technical_expertise:
     level: 4
 
 skills:
-  - "IBM z/OS"
-  - "TSO/ISPF"
-  - "IMS DB"
-  - "RACF"
+  - "IBM z/OS, CICS Transaction Server, TSO/ISPF, SDSF,
+    JES2, z/OSMF"
+  - "RACF, HIPAA-compliant data handling, audit reporting"
+  - "IMS DB, DB2 (z/OS), IMS DB, VSAM (KSDS, ESDS, RRDS)"
+  - "Connect:Direct (NDM), MFT, FTP/SFTP, AWS S3
+    integration"
   - "PROCLIB and JCL Utilities"
+  - "Endevor, Git, Jenkins, Docker, Python, Bash,
+    Linux/Unix"
   - "Batch Monitoring"
   - "Production Support"
   - "Incident Management"
   - "Performance Tuning"
-  - "SDLC and Release Support"
-  - "Application Troubleshooting"
   - "Automation and Reporting"
 
 methodology:
   - "Software Development Life Cycle"
-  - "Incident and Problem Management"
   - "Regression Testing"
   - "Root Cause Analysis"
   - "Change and Release Management"
+  - "SDLC, Agile/Scrum, JAD sessions, UAT, Production
+    L2/L3 Support"
 
 tools:
   - "JIRA"
@@ -149,8 +213,10 @@ tools:
   - "Mainframe Development Utilities"
 
 achievements:
-  - name: "Mainframe and Log Processing"
+  - name: "Cyber Security Training - State sponsored"
     description: >
-      Experience working with mainframe technologies and
-      structured log-processing workflows. Add measurable
-      outcomes and certifications where verified.
+      "Hands-on security tooling, threat analysis, and vulnerability assessment.""
+  - name: "IT/Software Engineering Diploma, 42 Wolfsburg"
+    description: >
+      "Common Core: C, C++98, Unix/Linux systems, Docker (multi-container Inception project), algorithms and
+      data structures, networking fundamentals.""

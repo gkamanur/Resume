@@ -80,6 +80,20 @@
       - #tool
     ]
 
+    == Methodology
+
+    #for method in configuration.methodology [
+      - #method
+    ]
+
+    == Certifications & Achievements
+
+    #for achievement in configuration.achievements [
+      === #achievement.name
+
+      #achievement.description
+    ]
+
     == Education
 
     #for edu in configuration.education [
@@ -94,18 +108,5 @@
       #edu.location
     ]
 
-    == Methodology
-
-    #for method in configuration.methodology [
-      - #method
-    ]
-
-    == Certifications & Achievements
-
-    #for achievement in configuration.achievements [
-      === #achievement.name
-
-      #achievement.description
-    ]
   ],
 )
