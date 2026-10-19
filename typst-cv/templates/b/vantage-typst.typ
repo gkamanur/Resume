@@ -1,4 +1,5 @@
 #import "/shared/theme.typ": body-font
+#import "/shared/languages.typ": level-label
 
 #let primary_colour = rgb("#3730a3")
 #let link_colour = rgb("#12348e")
@@ -71,6 +72,21 @@
     )
   }
 
+  linebreak()
+}
+
+#let language(entry) = {
+  let lvl = str(entry.at("level", default: ""))
+  let lbl = level-label(entry)
+  entry.at("name", default: "")
+  h(1fr)
+  if lvl != "" and lvl != "Native" {
+    text(weight: "bold", fill: primary_colour)[#lvl]
+  }
+  if lbl != "" {
+    if lvl != "" and lvl != "Native" { h(4pt) }
+    text(size: 8.4pt, fill: muted_colour)[#lbl]
+  }
   linebreak()
 }
 

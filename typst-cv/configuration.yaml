@@ -4,6 +4,7 @@
 #
 # Optional keys (templates fall back gracefully if absent):
 #   responsibilities  – bullet list shown as "Key Responsibilities"
+#   languages         – name + CEFR level (A1–C2 or Native); optional label
 #   keywords          – header badges in template c
 #                       (default: names from technical_expertise)
 # ─────────────────────────────────────────────────────────────
@@ -181,6 +182,19 @@ technical_expertise:
     level: 4
   - name: "VSAM"
     level: 4
+
+languages:
+  - name: "German"
+    level: "Intermediate A2-B1"
+  - name: "English"
+    level: "Professional working proficiency C1"
+  - name: "Telugu"
+    level: "Native"
+  # Add your other languages here (level: A1 A2 B1 B2 C1 C2 or Native), e.g.
+  # - name: "English"
+  #   level: "C1"
+  # - name: "Telugu"
+  #   level: "Native"
 
 skills:
   - "IBM z/OS, CICS Transaction Server, TSO/ISPF, SDSF,

@@ -1,5 +1,5 @@
 
-#import "vantage-typst.typ": vantage, term, skill, styled-link
+#import "vantage-typst.typ": vantage, term, skill, language, styled-link
 
 #let configuration = yaml("/configuration.yaml")
 
@@ -66,6 +66,16 @@
     #for expertise in configuration.technical_expertise [
       #skill(expertise.name, expertise.level)
       #v(3pt)
+    ]
+
+    #let languages = configuration.at("languages", default: ())
+    #if languages.len() > 0 [
+      == Languages
+
+      #for entry in languages [
+        #language(entry)
+        #v(3pt)
+      ]
     ]
 
     == Additional Skills

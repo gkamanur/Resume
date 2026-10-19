@@ -18,7 +18,7 @@ date: "15 October 2026"        # leave "" to use today's date
 
 recipient:
   name: "Hiring Manager"
-  company: "Company Name"
+  company: "Alten GmBH"
   address: "Company Street and Number"
   location: "Postal Code, City, Germany"
 
@@ -33,3 +33,4 @@ body:
   - "My technical experience includes COBOL, JCL, DB2, CICS, VSAM, and mainframe environments. I have worked on development and support activities, investigated production issues, supported batch jobs, and contributed to reliable application processing. My experience across retail and healthcare projects has helped me understand the importance of accuracy, system stability, and timely issue resolution."
   - "I am comfortable working with established processes, collaborating with team members, and following the software development life cycle. I also have experience with automation and technical troubleshooting. I am keen to continue developing my mainframe expertise and learn the tools and technologies required by your team."
   - "I would welcome the opportunity to discuss how my experience and skills could contribute to your organization. Thank you for considering my application. I look forward to hearing from you."
+  - "This is a test run of the cover letter generator. Please ignore this application."

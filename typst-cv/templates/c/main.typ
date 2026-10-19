@@ -2,6 +2,7 @@
 // Reads the SAME /configuration.yaml as templates a and b and maps it onto
 // the fields nabcv expects. Compile with `--root` set to the project root.
 #import "vendor/nabcv/cv.typ": cv
+#import "/shared/languages.typ": language-line
 
 #let configuration = yaml("/configuration.yaml")
 
@@ -78,8 +79,14 @@
 
 #let strs(x) = lst(x).map(i => str(i))
 
+#let language-items = (
+  lst(get(configuration, "languages"))
+    .map(l => if type(l) == dictionary { language-line(l) } else { str(l) })
+)
+
 #let skills = (
   (group: "Technical Expertise", items: expertise-names.join(", ")),
+  (group: "Languages", items: language-items),
   (group: "Additional Skills", items: strs(get(configuration, "skills"))),
   (group: "Tools", items: strs(get(configuration, "tools"))),
   (group: "Methodology", items: strs(get(configuration, "methodology"))),

@@ -1,4 +1,5 @@
 #import "/shared/theme.typ": body-font
+#import "/shared/languages.typ": level-label
 // ─────────────────────────────────────────────────────
 // Palette
 // ─────────────────────────────────────────────────────
@@ -114,6 +115,33 @@
 #let skill-entry(x) = block(width: 100%, above: 0pt, below: 5pt, {
   if type(x) == dictionary {
     skill(field(x, "name"), field(x, "level", default: field(x, "rating", default: 0)))
+  } else {
+    text(size: 8.8pt)[#x]
+  }
+})
+
+// ─────────────────────────────────────────────────────
+// Language entry (name on the left, CEFR level + wording on the right)
+// ─────────────────────────────────────────────────────
+#let language-entry(x) = block(width: 100%, above: 0pt, below: 5pt, {
+  if type(x) == dictionary {
+    let lvl = str(field(x, "level"))
+    let lbl = level-label(x)
+    grid(
+      columns: (1fr, auto),
+      column-gutter: 6pt,
+      align: (left + horizon, right + horizon),
+      text(size: 8.8pt)[#field(x, "name")],
+      {
+        if lvl != "" and lvl != "Native" {
+          text(size: 8.8pt, weight: "bold", fill: primary_colour)[#lvl]
+        }
+        if lbl != "" {
+          if lvl != "" and lvl != "Native" { h(4pt) }
+          text(size: 8.2pt, fill: muted_colour)[#lbl]
+        }
+      },
+    )
   } else {
     text(size: 8.8pt)[#x]
   }

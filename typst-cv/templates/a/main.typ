@@ -1,4 +1,4 @@
-#import "vantage-typst.typ": vantage, job-entry, edu-entry, skill-entry, tag-list, as-list, field
+#import "vantage-typst.typ": vantage, job-entry, edu-entry, skill-entry, language-entry, tag-list, as-list, field
 
 #let configuration = yaml("/configuration.yaml")
 #let contacts = field(configuration, "contacts", default: (:))
@@ -40,6 +40,15 @@
     #for item in as-list(field(configuration, "technical_expertise", default: ())) {
       skill-entry(item)
     }
+
+    #let languages = as-list(field(configuration, "languages", default: ()))
+    #if languages.len() > 0 [
+      == Languages
+
+      #for lang in languages {
+        language-entry(lang)
+      }
+    ]
 
     == Additional Skills
 
