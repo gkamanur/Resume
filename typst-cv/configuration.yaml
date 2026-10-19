@@ -18,7 +18,7 @@ contacts:
 
   linkedin:
     url: "https://www.linkedin.com/in/guruvenu-kamanuru/"
-    displayText: "LinkedIn Profile"
+    displayText: "https://www.linkedin.com/in/guruvenu-kamanuru/"
 
   github:
     url: ""
@@ -184,12 +184,18 @@ technical_expertise:
     level: 4
 
 languages:
-  - name: "German"
-    level: "Intermediate A2-B1"
-  - name: "English"
-    level: "Professional working proficiency C1"
-  - name: "Telugu"
+  - name: "🇮🇳 Telugu"
     level: "Native"
+    label: ""
+  - name: "🇮🇳 Hindi"
+    level: "Native"
+    label: ""
+  - name: "🇬🇧 English"
+    level: "Proficient"
+    label: ""
+  - name: "🇩🇪 German"
+    level: "A2-B1"
+    label: ""
   # Add your other languages here (level: A1 A2 B1 B2 C1 C2 or Native), e.g.
   # - name: "English"
   #   level: "C1"
